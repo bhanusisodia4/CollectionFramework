@@ -1,5 +1,6 @@
 import java.util.ArrayList;
 import java.util.Iterator;
+import java.util.List;
 import java.util.ListIterator;
 
 public class ArrayListt {
@@ -13,6 +14,9 @@ public class ArrayListt {
         alist.add("Biitu");
         alist.add("Shyam");
         alist.add("Ram");
+        alist.add("Ram");
+        alist.add("Hare");
+        alist.add("Shyam ");
 
         //printing through iterable
 
